@@ -20,7 +20,7 @@ struct ContentView: View {
                     .foregroundColor(Color.pink)
                     .multilineTextAlignment(.center)
                 
-                Text("Question 1: Who sings Crazy In Love?")
+                Text("Question 1: Who sings Crazy In Love???")
                     .font(.title3)
                 
                 Button("Mariah Carey"){
